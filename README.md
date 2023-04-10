@@ -1,6 +1,6 @@
 ## Memories アプリのサポートページ
 
-Last update: April 1, 2022
+Last update: April 11, 2023
 
 　<img src="https://user-images.githubusercontent.com/8732417/150129251-f82bed44-ab99-4a53-b544-83df97159c40.png" width="150"><BR>
 　<a href="https://apps.apple.com/jp/app/memories-%E4%B9%97%E8%BB%8A%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA/id1616337665" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1627603200&h=67f860c8a4424c97a47065fb78d09e10" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 60px;"></a>
@@ -17,6 +17,7 @@ Last update: April 1, 2022
 Memoriesは東京メトロ東西線の乗車記録をつけるアプリです。  
 乗車記録をつけてみることで日々のくらしの質が変わるかもしれません。  
 また，各駅の時刻表や運行状況も確認できるようにしました。  
+バージョン 1.1.0 より東京メトロ全線の時刻表が確認できるようになりました。  
 
 ## サポート言語
 
@@ -37,6 +38,7 @@ Memoriesは東京メトロ東西線の乗車記録をつけるアプリです。
 |バージョン|リリース日|メモ|
 |:--:|:--:|:--|
 |1.0.0|2022/04|新規アプリリリース|
+|1.1.0|2023/04|・iOS 16サポート追加<BR>・東京メトロ全路線の時刻表閲覧が可能に<BR>・ギャラリー追加<BR>・バグ修正|
 
 ## 機能一覧
 
@@ -55,7 +57,7 @@ Memoriesは東京メトロ東西線の乗車記録をつけるアプリです。
 ### その他機能
 
 * 東京メトロ運行状況確認
-* 東西線各駅時刻表閲覧
+* 東京メトロ全9路線各駅時刻表閲覧
 * 東西線駅マップ
 * アプリお知らせ
 
@@ -80,7 +82,8 @@ https://developer.odpt.org
 
 |フィードバックをタップ|入力後に送信ボタンタップ|
 |:--:|:--:|
-|![41](https://user-images.githubusercontent.com/8732417/150478464-a34b3c49-6f19-44f0-b9cc-265cca54015e.png)|![42](https://user-images.githubusercontent.com/8732417/150478420-8a50ecd8-066e-4446-aa76-b859dbfc503e.png)|
+|![41](https://user-images.githubusercontent.com/8732417/230921948-9b9667bb-cf32-48eb-9f98-dafdb8bc7a77.png)|![42](https://user-images.githubusercontent.com/8732417/230922000-eba29c7b-8396-4113-af34-d0ae3ab1967d.png)|
+
 
 ## 作った人
 
