@@ -1,9 +1,9 @@
 ## Memories アプリのサポートページ
 
-Last update: Aug 19, 2024
+Last update: Sep 30, 2024
 
 　<img src="https://user-images.githubusercontent.com/8732417/150129251-f82bed44-ab99-4a53-b544-83df97159c40.png" width="150"><BR>
-　<a href="https://apps.apple.com/jp/app/memories-%E4%B9%97%E8%BB%8A%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA/id1616337665" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1627603200&h=67f860c8a4424c97a47065fb78d09e10" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 60px;"></a>
+　<a href="https://apps.apple.com/jp/app/memories-%E4%B9%97%E8%BB%8A%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA/id1616337665"><img src="https://github.com/user-attachments/assets/c01d2926-7ec5-41dd-9d8b-7526c49ee90b" alt="AppStore"></a>
 
 ## アプリ概要
 
@@ -46,6 +46,7 @@ Memoriesは東京メトロ東西線の乗車記録をつけるアプリです。
 |1.2.0|2024/01|・iOS 17サポート追加<BR>・iOS 14サポート終了<BR>・Apple Watch対応<BR>・バグ修正|
 |1.2.1|2024/03|・時刻表画面で端末を振って東京メトロ車両のみを確認可能に<BR>・日比谷線の時刻表エラー修正<BR>・バグ修正|
 |1.2.2|2024/08|・千代田線の時刻表エラー修正<BR>・バグ修正|
+|1.2.3|2024/09|・iOS 18とwatchOS 11サポート追加<BR>・Settings画面のSwiftUI対応<BR>・バグ修正|
 
 ## 機能一覧
 
